@@ -89,3 +89,7 @@ elif moeda_origem == '3':
     print(f"O valor em reais é R${valor_moeda_real:.2f}")
 else:
     print("Opção inválida")
+
+
+  Contribuição
+Sinta-se à vontade para contribuir com melhorias para este projeto. Você pode fazer isso abrindo uma issue ou enviando um pull request.
